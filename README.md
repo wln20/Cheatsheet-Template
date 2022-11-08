@@ -43,8 +43,7 @@ This template was originally made by former students in THU-EE, for study only.
 \end{document}
 ```
 Result:
-<img src='./example.jpg' style='zoom:60%;'>
-![img](./example.png)
+<img src='./example.png' style='zoom:60%;'>
 
 
 ### Notice
