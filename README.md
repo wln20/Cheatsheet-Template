@@ -42,8 +42,10 @@ This template was originally made by former students in THU-EE, for study only.
 \end{multicols*}
 \end{document}
 ```
-Result:
-<img src='./example.png' style='zoom:60%;'>
+**Result:**
+<img src='./assets/example.png' style='zoom:40%;'>
+Click here to download <a href='./assets/example.pdf'>example.pdf</a>
+
 
 
 ### Notice
