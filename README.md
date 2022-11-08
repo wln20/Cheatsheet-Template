@@ -1,8 +1,8 @@
 # Cheatsheet-Template
-A biref template for exam-oriented-cheatsheet.
-This template was originally made by former students in THU-EE, for study only.
+A biref template for exam-oriented-cheatsheet, which can compress massive contents into a single A4 paper.
 
 ### Demo
+You will easily get on the way with a brief glance at the demo code in example.tex.  
 ```tex
 \begin{document}
 \begin{multicols*}{4}       % column数量
@@ -49,7 +49,7 @@ Click here to download <a href='./assets/example.pdf'>example.pdf</a>
 
 
 ### Notice
-+ Choose XeLatex as compiler
-+ You will easily get on the way with a brief glance at the demo code in example.tex.  
++ This template was originally made by former students in THU-EE, for study only.
++ Please choose XeLatex as compiler
 + example.tex is your workplace, DO NOT edit the .cls file unless you know what you're doing.
 
