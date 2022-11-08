@@ -1,7 +1,8 @@
 # Cheatsheet-Template
 A biref template for exam-oriented-cheatsheet.
+This template was originally made by former students in THU-EE, for study only.
 
-Demo:
+### Demo
 ```tex
 \begin{document}
 \begin{multicols*}{4}       % column数量
@@ -41,10 +42,12 @@ Demo:
 \end{multicols*}
 \end{document}
 ```
+Result:
+<img src='./example.jpg' style='zoom:60%;'>
 ![img](./example.png)
 
 
-Notice:
+### Notice
 + Choose XeLatex as compiler
 + You will easily get on the way with a brief glance at the demo code in example.tex.  
 + example.tex is your workplace, DO NOT edit the .cls file unless you know what you're doing.
