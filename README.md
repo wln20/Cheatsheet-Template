@@ -49,7 +49,7 @@ Click here to download <a href='./assets/example.pdf'>example.pdf</a>
 
 
 ### Notice
-+ This template was originally made by former students in THU-EE, for study only.
-+ Please choose XeLatex as compiler
-+ example.tex is your workplace, DO NOT edit the .cls file unless you know what you're doing.
++ This template was originally made by former students in THU-EE, all rights are reserved, please use it for study only.
++ Please choose XeLatex as your compiler, in order to support Chinese.
++ example.tex is the file you are supposed to edit, DO NOT modify the .cls file unless you know what you're doing.
 
